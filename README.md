@@ -1,4 +1,9 @@
 <div align="center">
+  <br />
+      <img src="public/readme/Gemini_Generated_Image_d6hsamd6hsamd6hs.png
+" alt="Project Banner">
+    </a>
+  <br />
 
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
 

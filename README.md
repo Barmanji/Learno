@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="public/readme/Gemini_Generated_Image_d6hsamd6hsamd6hs.png" alt="Project Banner">
+      <img src="public/readme/Gemini_Generated_Image_ludz1xludz1xludz.png" alt="Project Banner">
     </a>
   <br />
 

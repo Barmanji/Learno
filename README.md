@@ -1,8 +1,4 @@
 <div align="center">
-  <br />
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
 
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
 

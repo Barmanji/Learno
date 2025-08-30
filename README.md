@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
   <br />
@@ -27,8 +26,6 @@
 
 Create an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
 
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 

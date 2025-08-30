@@ -1,9 +1,14 @@
 <div align="center">
   <br />
-      <img src="public/readme/Gemini_Generated_Image_d6hsamd6hsamd6hs.png
-" alt="Project Banner">
+      <img src="public/readme/Gemini_Generated_Image_d6hsamd6hsamd6hs.png" alt="Project Banner">
     </a>
   <br />
+
+  <div>
+    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
+    <img src="https://img.shields.io/badge/-Vapi-black?style=for-the-badge&logoColor=white&logo=vapi.com&color=green" alt="next.js" />
+    <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
 
   <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
 
@@ -20,6 +25,7 @@
 ## <a name="introduction">🤖 Introduction</a>
 
 Create an LMS SaaS app from scratch featuring user authentication, subscriptions, and payments using Next.js, Supabase, and Stripe! You'll build and deploy a real-time teaching platform with Vapi, integrate an AI vocal agent, and deliver seamless, interactive learning sessions.
+
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
